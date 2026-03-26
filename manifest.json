@@ -1,7 +1,6 @@
-{
-  "name": "Hardship Discharge in Chapter 13 -- Section 1328(b)",
+{"name": "Hardship Discharge",
   "short_name": "bankruptcyhardship.org",
-  "description": "Free guide to the Chapter 13 hardship discharge under Section 1328(b). Learn when you can get a discharge without completing your plan payments.",
+  "description": "Section 1328(b) -- early discharge when you cannot complete your Chapter 13 plan",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0d1117",
