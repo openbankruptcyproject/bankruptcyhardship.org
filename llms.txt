@@ -1,17 +1,13 @@
 # bankruptcyhardship.org
 
-> Hardship Discharge | bankruptcyhardship.org
+> Guide to the undue hardship standard in bankruptcy -- student loans and hardship discharges.
 
-Section 1328(b) -- early discharge when you cannot complete your Chapter 13 plan
+bankruptcyhardship.org is a free, open-source educational resource about hardship provisions in bankruptcy. Part of the Bankruptcy Transparency Network.
 
-This site is part of the Bankruptcy Transparency Network -- free, open-source bankruptcy information based on national federal court data.
+## Pages
 
-## Related Sites
-- https://1328f.com -- Free bankruptcy discharge screener
-- https://1328f.org -- Research platform
-- https://bankruptcymill.org -- Bankruptcy mill detection
-- https://serialfiler.org -- Serial filing restrictions
-- https://dischargebar.org -- Discharge waiting periods
+- https://bankruptcyhardship.org/: Guide to undue hardship in bankruptcy -- student loans, hardship discharges
 
 ## Contact
-- Ko-fi: https://ko-fi.com/ilikemath9999
+
+This site is maintained by volunteers. No legal advice is provided.
