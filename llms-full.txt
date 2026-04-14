@@ -24,11 +24,11 @@ vs Dismissal
 
 Hardship Discharge
 
-Section 1328(b) -- early discharge when you cannot complete your Chapter 13 plan
+Section 1328(b) - early discharge when you cannot complete your Chapter 13 plan
 
 Network › Hardship Discharge
 
-Plan Modification -- Section 1329
+Plan Modification - Section 1329
 
 Courts expect you to attempt modification before seeking hardship discharge. Adjust payments, extend the term, reduce unsecured distributions.
 
@@ -50,7 +50,7 @@ Can I File Bankruptcy Again?
 
 Debt to Income Ratio Guide
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -62,21 +62,21 @@ Subscribe
 
 Related Resources
 
-Section 1328 Discharge -- Chapter 13 discharge rules and the superdischarge
+Section 1328 Discharge - Chapter 13 discharge rules and the superdischarge
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
-Dismissed Bankruptcy -- What happens when your case is dismissed and next steps
+Dismissed Bankruptcy - What happens when your case is dismissed and next steps
 
 Further Reading & Resources
 
 Authority sources for deeper research on 109(g) filing bars and hardship discharge:
 
 11 U.S.C. Section 109(g)
-Cornell LII -- filing bars
+Cornell LII - filing bars
 
 11 U.S.C. Section 1328(b)
-Cornell LII -- hardship discharge
+Cornell LII - hardship discharge
 
 Bankruptcy Basics
 USCourts.gov
@@ -219,15 +219,15 @@ In practical terms, the court must calculate what unsecured creditors would have
 
 How the Calculation Works
 
-Identify non-exempt assets -- In a Chapter 7 case, the trustee would liquidate non-exempt assets. The court determines what those assets were worth at the time of filing.
+Identify non-exempt assets - In a Chapter 7 case, the trustee would liquidate non-exempt assets. The court determines what those assets were worth at the time of filing.
 
-Subtract administrative costs -- Chapter 7 trustee fees (typically 25% of the first $5,000, then declining percentages), attorney fees, and other administrative expenses reduce the amount available to unsecured creditors.
+Subtract administrative costs - Chapter 7 trustee fees (typically 25% of the first $5,000, then declining percentages), attorney fees, and other administrative expenses reduce the amount available to unsecured creditors.
 
-Calculate the Chapter 7 dividend -- The remaining amount divided by total allowed unsecured claims gives the hypothetical Chapter 7 dividend percentage.
+Calculate the Chapter 7 dividend - The remaining amount divided by total allowed unsecured claims gives the hypothetical Chapter 7 dividend percentage.
 
-Compare to plan payments -- If the Chapter 13 plan has already distributed more to unsecured creditors than the Chapter 7 dividend, the test is satisfied.
+Compare to plan payments - If the Chapter 13 plan has already distributed more to unsecured creditors than the Chapter 7 dividend, the test is satisfied.
 
-Good news for most debtors: In practice, most Chapter 7 cases are "no-asset" cases -- meaning there would be nothing to distribute to unsecured creditors. If you would have been a no-asset case in Chapter 7, then any payment to unsecured creditors through your Chapter 13 plan satisfies the best interest test, even $0.
+Good news for most debtors: In practice, most Chapter 7 cases are "no-asset" cases - meaning there would be nothing to distribute to unsecured creditors. If you would have been a no-asset case in Chapter 7, then any payment to unsecured creditors through your Chapter 13 plan satisfies the best interest test, even $0.
 
 When This Test Becomes an Issue
 
@@ -252,11 +252,11 @@ Subscribe
 
 Related Resources
 
-section1328.org -- Full Chapter 13 discharge analysis
+section1328.org - Full Chapter 13 discharge analysis
 
-Requirements -- All three elements of Section 1328(b)
+Requirements - All three elements of Section 1328(b)
 
-chapter13plan.org -- How Chapter 13 plans work
+chapter13plan.org - How Chapter 13 plans work
 
 Related Guides
 
@@ -264,7 +264,7 @@ Can I File Bankruptcy Again?
 
 Debt to Income Ratio Guide
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -273,10 +273,10 @@ Further Reading & Resources
 Authority sources for deeper research on 109(g) filing bars and hardship discharge:
 
 11 U.S.C. Section 109(g)
-Cornell LII -- filing bars
+Cornell LII - filing bars
 
 11 U.S.C. Section 1328(b)
-Cornell LII -- hardship discharge
+Cornell LII - hardship discharge
 
 Bankruptcy Basics
 USCourts.gov
@@ -384,7 +384,7 @@ vs Dismissal
 
 Hardship Discharge Case Law
 
-Key decisions on what qualifies -- and what does not -- under Section 1328(b)
+Key decisions on what qualifies - and what does not - under Section 1328(b)
 
 Network › Hardship Discharge › Case Law
 
@@ -394,25 +394,25 @@ The phrase "circumstances for which the debtor should not justly be held account
 
 What Generally Qualifies
 
-Involuntary job loss -- Layoffs, plant closures, employer bankruptcy (but not voluntary resignation or termination for cause)
+Involuntary job loss - Layoffs, plant closures, employer bankruptcy (but not voluntary resignation or termination for cause)
 
-Medical disability -- Illness or injury preventing work (see medical/disability page)
+Medical disability - Illness or injury preventing work (see medical/disability page)
 
-Death of spouse -- Loss of a contributing income earner
+Death of spouse - Loss of a contributing income earner
 
-Divorce -- Loss of spousal income where debtor did not initiate and was not at fault (courts are split on this)
+Divorce - Loss of spousal income where debtor did not initiate and was not at fault (courts are split on this)
 
-Natural disaster -- Fire, flood, tornado destroying the debtor's home or business
+Natural disaster - Fire, flood, tornado destroying the debtor's home or business
 
 What Generally Does Not Qualify
 
-Voluntary job change -- Quitting a job, even for understandable personal reasons, is generally considered a voluntary act
+Voluntary job change - Quitting a job, even for understandable personal reasons, is generally considered a voluntary act
 
-Incarceration -- Most courts hold that criminal conduct leading to incarceration is a circumstance the debtor IS accountable for
+Incarceration - Most courts hold that criminal conduct leading to incarceration is a circumstance the debtor IS accountable for
 
-New debt accumulation -- Taking on new debts during the plan period (new car, credit cards) that make plan payments unaffordable
+New debt accumulation - Taking on new debts during the plan period (new car, credit cards) that make plan payments unaffordable
 
-Failure to maintain insurance -- If a loss occurs because the debtor let insurance lapse
+Failure to maintain insurance - If a loss occurs because the debtor let insurance lapse
 
 Circuit Variations
 
@@ -424,7 +424,7 @@ Some circuits apply a strict causation test (the circumstance must directly and 
 
 Self-inflicted hardship
 
-The hardest cases involve mixed causation -- a debtor who becomes disabled but whose disability was partially related to voluntary conduct (e.g., accident while intoxicated). Courts are split on how much voluntary contribution disqualifies the debtor.
+The hardest cases involve mixed causation - a debtor who becomes disabled but whose disability was partially related to voluntary conduct (e.g., accident while intoxicated). Courts are split on how much voluntary contribution disqualifies the debtor.
 
 Foreseeability
 
@@ -443,13 +443,13 @@ Subscribe
 
 Related Resources
 
-section1328.org -- Full Section 1328 discharge analysis
+section1328.org - Full Section 1328 discharge analysis
 
-Requirements -- The three-element test
+Requirements - The three-element test
 
-Medical/Disability -- The most common qualifying circumstance
+Medical/Disability - The most common qualifying circumstance
 
-dischargebar.org -- Discharge bar timing
+dischargebar.org - Discharge bar timing
 
 Related Guides
 
@@ -457,7 +457,7 @@ Can I File Bankruptcy Again?
 
 Debt to Income Ratio Guide
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -466,10 +466,10 @@ Further Reading & Resources
 Authority sources for deeper research on 109(g) filing bars and hardship discharge:
 
 11 U.S.C. Section 109(g)
-Cornell LII -- filing bars
+Cornell LII - filing bars
 
 11 U.S.C. Section 1328(b)
-Cornell LII -- hardship discharge
+Cornell LII - hardship discharge
 
 Bankruptcy Basics
 USCourts.gov
@@ -559,6 +559,133 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
+## Hardship Discharge in Bankruptcy - 11 U.S.C. Section 1328(b) Guide [2026]
+Source: https://bankruptcyhardship.org/hardship-discharge.html
+
+← bankruptcyhardship.org
+
+Hardship Discharge in Bankruptcy
+
+When life makes it impossible to finish your Chapter 13 plan, a hardship discharge under 11 U.S.C. Section 1328(b) may provide relief
+
+Key point: A hardship discharge is available only in Chapter 13. You must show three things: (1) circumstances beyond your control, (2) creditors received at least what they would in Chapter 7, and (3) plan modification is not practicable.
+
+What Is a Hardship Discharge?
+
+A hardship discharge allows a Chapter 13 debtor to receive a discharge even though the debtor has not completed all payments under the confirmed plan. It is codified at 11 U.S.C. Section 1328(b).
+
+This is different from the standard Chapter 13 discharge under Section 1328(a), which you receive after completing all plan payments. The hardship discharge exists because Congress recognized that some debtors face genuinely unforeseeable circumstances - job loss, serious illness, disability, or death of a spouse - that make plan completion impossible.
+
+Three Requirements for a Hardship Discharge
+
+Courts apply a strict three-part test. All three must be satisfied:
+
+1. Circumstances Not the Debtor's Fault
+
+The failure to complete plan payments must be due to circumstances for which the debtor should not justly be held accountable. Common qualifying events:
+
+Serious illness, injury, or disability
+
+Loss of employment through no fault of your own (layoff, plant closing)
+
+Death or disability of a spouse who contributed to plan payments
+
+Divorce that destroys the household income needed for plan payments
+
+Natural disaster (flood, tornado, fire) causing uninsured losses
+
+Voluntary job changes, quitting, or failing to seek new employment typically do not qualify.
+
+2. Best-Interest-of-Creditors Test
+
+Unsecured creditors must have received at least as much as they would have received in a Chapter 7 liquidation. This is the same test applied at confirmation under Section 1325(a)(4). The court looks at what nonexempt assets would have been available to a Chapter 7 trustee.
+
+3. Modification Is Not Practicable
+
+You must show that modifying the plan under Section 1329 is not feasible. If you could reduce payments and still complete a modified plan, the court will deny the hardship discharge and direct you to modify instead. See our plan modification guide.
+
+Hardship Discharge vs. Regular Chapter 13 Discharge
+
+FeatureRegular Discharge (1328(a))Hardship Discharge (1328(b))
+
+Plan paymentsAll payments completedPayments not completed
+
+ScopeBroader - discharges most debts including some not dischargeable in Chapter 7Narrower - same scope as Chapter 7 discharge
+
+Student loansNot dischargedNot discharged
+
+Fraud debtsMay be dischargedNot discharged (523(a)(2))
+
+Willful injuryMay be dischargedNot discharged (523(a)(6))
+
+Court approvalAutomatic after plan completionRequires motion and hearing
+
+How to Request a Hardship Discharge
+
+File a motion with the bankruptcy court requesting a hardship discharge under Section 1328(b)
+
+Provide evidence of the circumstances preventing plan completion (medical records, termination letter, disability determination)
+
+Show the math - demonstrate that unsecured creditors received at least what they would have in Chapter 7
+
+Explain why modification fails - attach a proposed modified plan showing it is not feasible
+
+Attend the hearing - the court will schedule a hearing on your motion
+
+For detailed filing procedures, see our step-by-step request guide.
+
+Debts NOT Discharged Under a Hardship Discharge
+
+Because a hardship discharge has the same scope as a Chapter 7 discharge, the following debts survive:
+
+Domestic support obligations (alimony, child support)
+
+Most tax debts
+
+Student loans (unless undue hardship is proven in an adversary proceeding)
+
+Debts from fraud, embezzlement, or larceny
+
+Debts from willful and malicious injury
+
+Government fines and penalties
+
+DUI/DWI judgments
+
+Common Reasons Courts Deny Hardship Discharges
+
+The debtor caused the inability to pay (quit a job, overspent)
+
+Plan modification is still possible
+
+Creditors received less than they would have in Chapter 7
+
+Insufficient evidence of the hardship
+
+The debtor did not complete the required financial management course
+
+Alternatives to a Hardship Discharge
+
+Before requesting a hardship discharge, consider these options:
+
+Plan modification - reduce payments under Section 1329 (guide)
+
+Conversion to Chapter 7 - if you now qualify for Chapter 7 under the means test
+
+Voluntary dismissal - dismiss the case and start over later
+
+See our full alternatives comparison.
+
+Related Resources
+
+Bankruptcy Hardship Guide | Requirements | Qualifying Circumstances | Case Law | Chapter 13 Plan Guide
+
+Part of the Open Bankruptcy Project - free, open-source bankruptcy information.
+
+Not legal advice. Consult a licensed attorney for your specific situation.
+
+---
+
 ## How to Request a Hardship Discharge
 Source: https://bankruptcyhardship.org/how-to-request.html
 
@@ -577,7 +704,7 @@ vs Dismissal
 
 Hardship Discharge
 
-Section 1328(b) -- early discharge when you cannot complete your Chapter 13 plan
+Section 1328(b) - early discharge when you cannot complete your Chapter 13 plan
 
 Network › Hardship Discharge
 
@@ -603,7 +730,7 @@ Can I File Bankruptcy Again?
 
 Debt to Income Ratio Guide
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -615,21 +742,21 @@ Subscribe
 
 Related Resources
 
-Section 1328 Discharge -- Chapter 13 discharge rules and the superdischarge
+Section 1328 Discharge - Chapter 13 discharge rules and the superdischarge
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
-Dismissed Bankruptcy -- What happens when your case is dismissed and next steps
+Dismissed Bankruptcy - What happens when your case is dismissed and next steps
 
 Further Reading & Resources
 
 Authority sources for deeper research on 109(g) filing bars and hardship discharge:
 
 11 U.S.C. Section 109(g)
-Cornell LII -- filing bars
+Cornell LII - filing bars
 
 11 U.S.C. Section 1328(b)
-Cornell LII -- hardship discharge
+Cornell LII - hardship discharge
 
 Bankruptcy Basics
 USCourts.gov
@@ -742,7 +869,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Hardship Discharge in Bankruptcy -- Requirements & How to Qualify [2026]
+## Hardship Discharge in Bankruptcy - Requirements & How to Qualify [2026]
 Source: https://bankruptcyhardship.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -760,11 +887,11 @@ Medical
 Case Law
 vs Dismissal
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Hardship Discharge in Bankruptcy
 
-Section 1328(b) -- early discharge when you cannot complete your Chapter 13 plan
+Section 1328(b) - early discharge when you cannot complete your Chapter 13 plan
 
 Network › Hardship Discharge
 
@@ -780,7 +907,7 @@ This site will explain the three requirements for a hardship discharge: (1) the 
 
 We will also cover the important limitation that a hardship discharge under Section 1328(b) does not include the "superdischarge" benefits of a full Chapter 13 discharge under Section 1328(a). The hardship discharge only covers the debts that would be dischargeable in a Chapter 7 case.
 
-Part of the Open Bankruptcy Project -- a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
+Part of the Open Bankruptcy Project - a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
 
 Frequently Asked Questions
 
@@ -817,7 +944,7 @@ What Happens if Your Case is Dismissed Instead?
 
 Related Topics
 
-Hardship Discharge in Bankruptcy -- Full Guide
+Hardship Discharge in Bankruptcy - Full Guide
 Chapter 13 Plans
 Section 1328 Discharge
 Dismissal Rate Statistics
@@ -829,7 +956,7 @@ Can I File Bankruptcy Again?
 
 Debt to Income Ratio Guide
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -841,21 +968,21 @@ Subscribe
 
 Related Resources
 
-Section 1328 Discharge -- Chapter 13 discharge rules and the superdischarge
+Section 1328 Discharge - Chapter 13 discharge rules and the superdischarge
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
-Dismissed Bankruptcy -- What happens when your case is dismissed and next steps
+Dismissed Bankruptcy - What happens when your case is dismissed and next steps
 
 Further Reading & Resources
 
 Authority sources for deeper research on 109(g) filing bars and hardship discharge:
 
 11 U.S.C. Section 109(g)
-Cornell LII -- filing bars
+Cornell LII - filing bars
 
 11 U.S.C. Section 1328(b)
-Cornell LII -- hardship discharge
+Cornell LII - hardship discharge
 
 Bankruptcy Basics
 USCourts.gov
@@ -900,7 +1027,7 @@ chapter7vs13.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -1062,11 +1189,14 @@ bankruptcyhardship.org
 voluntarypetition.org
 ♥ Sponsor
 GitHub
+Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
 
 Privacy | Terms | Open Bankruptcy Project
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1118,15 +1248,15 @@ What Courts Want to See
 
 To support a hardship discharge based on medical disability, you should provide:
 
-Medical documentation -- Doctor's letter or report confirming the diagnosis, onset date, and expected duration or permanence
+Medical documentation - Doctor's letter or report confirming the diagnosis, onset date, and expected duration or permanence
 
-Work restriction evidence -- Documentation from treating physician that the debtor cannot work or can only work in a limited capacity
+Work restriction evidence - Documentation from treating physician that the debtor cannot work or can only work in a limited capacity
 
-Income comparison -- Show the difference between pre-disability income and current income (disability benefits, reduced wages, etc.)
+Income comparison - Show the difference between pre-disability income and current income (disability benefits, reduced wages, etc.)
 
-Budget showing infeasibility -- Updated Schedule J showing that even with reduced expenses, plan payments are not possible
+Budget showing infeasibility - Updated Schedule J showing that even with reduced expenses, plan payments are not possible
 
-Social Security disability determination -- If applicable, an SSDI or SSI approval is strong evidence of inability to work
+Social Security disability determination - If applicable, an SSDI or SSI approval is strong evidence of inability to work
 
 Types of Medical Conditions That Qualify
 
@@ -1163,13 +1293,13 @@ Subscribe
 
 Related Resources
 
-Requirements -- The full three-element test for hardship discharge
+Requirements - The full three-element test for hardship discharge
 
-Modification First -- Why courts require modification attempts first
+Modification First - Why courts require modification attempts first
 
-section1328.org -- Chapter 13 discharge rules
+section1328.org - Chapter 13 discharge rules
 
-chapter13plan.org -- Chapter 13 plan modification options
+chapter13plan.org - Chapter 13 plan modification options
 
 Related Guides
 
@@ -1177,19 +1307,23 @@ Can I File Bankruptcy Again?
 
 Debt to Income Ratio Guide
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Further Reading & Resources
 
 Authority sources for deeper research on 109(g) filing bars and hardship discharge:
 
 11 U.S.C. Section 109(g)
-Cornell LII -- filing bars
+Cornell LII - filing bars
 
 11 U.S.C. Section 1328(b)
-Cornell LII -- hardship discharge
+Cornell LII - hardship discharge
 
 Bankruptcy Basics
 USCourts.gov
@@ -1279,7 +1413,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Plan Modification vs Hardship Discharge -- Which Comes First?
+## Plan Modification vs Hardship Discharge - Which Comes First?
 Source: https://bankruptcyhardship.org/modification-first.html
 
 Skip to main content
@@ -1311,25 +1445,25 @@ What Modification Can Do
 
 Section 1329 allows plan modification in several ways:
 
-Reduce payments -- Lower the monthly payment amount to match reduced income
+Reduce payments - Lower the monthly payment amount to match reduced income
 
-Extend the plan -- Stretch the plan from 36 months to 60 months (or from its current length to the maximum 60 months)
+Extend the plan - Stretch the plan from 36 months to 60 months (or from its current length to the maximum 60 months)
 
-Reduce unsecured payments -- Lower the percentage paid to unsecured creditors (subject to best interest test)
+Reduce unsecured payments - Lower the percentage paid to unsecured creditors (subject to best interest test)
 
-Adjust secured claims -- Modify treatment of secured debts in some circumstances
+Adjust secured claims - Modify treatment of secured debts in some circumstances
 
 When Modification Is "Not Practicable"
 
 Modification is impracticable when no feasible modification exists that would allow the debtor to complete the plan. Examples:
 
-Permanent disability -- Income is permanently reduced to below what any modified plan would require
+Permanent disability - Income is permanently reduced to below what any modified plan would require
 
-Already at maximum length -- The plan is already 60 months and cannot be extended further
+Already at maximum length - The plan is already 60 months and cannot be extended further
 
-Zero income -- The debtor has no income at all and no prospect of earning income
+Zero income - The debtor has no income at all and no prospect of earning income
 
-Expenses exceed income -- Even with the lowest possible plan payment ($0 to unsecured), the debtor cannot make required secured or priority payments
+Expenses exceed income - Even with the lowest possible plan payment ($0 to unsecured), the debtor cannot make required secured or priority payments
 
 Tip: If you have not yet attempted a plan modification, consider filing a motion to modify before requesting a hardship discharge. Courts are more receptive to hardship discharge requests from debtors who have already tried and failed to make modification work.
 
@@ -1346,11 +1480,11 @@ Subscribe
 
 Related Resources
 
-chapter13plan.org -- How Chapter 13 plans and modifications work
+chapter13plan.org - How Chapter 13 plans and modifications work
 
-Requirements -- All three hardship discharge elements
+Requirements - All three hardship discharge elements
 
-vs Dismissal -- Hardship discharge compared to voluntary dismissal
+vs Dismissal - Hardship discharge compared to voluntary dismissal
 
 Related Guides
 
@@ -1358,7 +1492,7 @@ Can I File Bankruptcy Again?
 
 Debt to Income Ratio Guide
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1367,10 +1501,10 @@ Further Reading & Resources
 Authority sources for deeper research on 109(g) filing bars and hardship discharge:
 
 11 U.S.C. Section 109(g)
-Cornell LII -- filing bars
+Cornell LII - filing bars
 
 11 U.S.C. Section 1328(b)
-Cornell LII -- hardship discharge
+Cornell LII - hardship discharge
 
 Bankruptcy Basics
 USCourts.gov
@@ -1478,7 +1612,7 @@ vs Dismissal
 
 Hardship Discharge
 
-Section 1328(b) -- early discharge when you cannot complete your Chapter 13 plan
+Section 1328(b) - early discharge when you cannot complete your Chapter 13 plan
 
 Network › Hardship Discharge
 
@@ -1502,7 +1636,7 @@ Can I File Bankruptcy Again?
 
 Debt to Income Ratio Guide
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1514,21 +1648,21 @@ Subscribe
 
 Related Resources
 
-Section 1328 Discharge -- Chapter 13 discharge rules and the superdischarge
+Section 1328 Discharge - Chapter 13 discharge rules and the superdischarge
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
-Dismissed Bankruptcy -- What happens when your case is dismissed and next steps
+Dismissed Bankruptcy - What happens when your case is dismissed and next steps
 
 Further Reading & Resources
 
 Authority sources for deeper research on 109(g) filing bars and hardship discharge:
 
 11 U.S.C. Section 109(g)
-Cornell LII -- filing bars
+Cornell LII - filing bars
 
 11 U.S.C. Section 1328(b)
-Cornell LII -- hardship discharge
+Cornell LII - hardship discharge
 
 Bankruptcy Basics
 USCourts.gov
@@ -1641,7 +1775,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Hardship Discharge Requirements -- The 3 Elements of Section 1328(b)
+## Hardship Discharge Requirements - The 3 Elements of Section 1328(b)
 Source: https://bankruptcyhardship.org/requirements.html
 
 Skip to main content
@@ -1712,13 +1846,13 @@ Subscribe
 
 Related Resources
 
-section1328.org -- Complete Section 1328 discharge analysis
+section1328.org - Complete Section 1328 discharge analysis
 
-Best Interest Test -- How the liquidation analysis works
+Best Interest Test - How the liquidation analysis works
 
-Modification First -- Why courts require you to try modification first
+Modification First - Why courts require you to try modification first
 
-Medical/Disability -- The most common qualifying circumstance
+Medical/Disability - The most common qualifying circumstance
 
 Related Guides
 
@@ -1726,7 +1860,7 @@ Can I File Bankruptcy Again?
 
 Debt to Income Ratio Guide
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1735,10 +1869,10 @@ Further Reading & Resources
 Authority sources for deeper research on 109(g) filing bars and hardship discharge:
 
 11 U.S.C. Section 109(g)
-Cornell LII -- filing bars
+Cornell LII - filing bars
 
 11 U.S.C. Section 1328(b)
-Cornell LII -- hardship discharge
+Cornell LII - hardship discharge
 
 Bankruptcy Basics
 USCourts.gov
@@ -1828,7 +1962,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Hardship Discharge vs Voluntary Dismissal -- Chapter 13
+## Hardship Discharge vs Voluntary Dismissal - Chapter 13
 Source: https://bankruptcyhardship.org/vs-dismissal.html
 
 Skip to main content
@@ -1846,7 +1980,7 @@ vs Dismissal
 
 Hardship Discharge vs Voluntary Dismissal
 
-When your plan fails -- which option is better?
+When your plan fails - which option is better?
 
 Network › Hardship Discharge › vs Dismissal
 
@@ -1858,7 +1992,7 @@ Side-by-Side Comparison
 
 FactorHardship DischargeVoluntary Dismissal
 
-Debts eliminated?Yes (Ch.7-equivalent debts)No -- all debts revive
+Debts eliminated?Yes (Ch.7-equivalent debts)No - all debts revive
 
 RequirementsThree-element testGenerally available as of right
 
@@ -1892,7 +2026,7 @@ You plan to refile Chapter 13 immediately with a modified plan
 
 Your situation is temporary and you want a clean slate to refile when circumstances improve
 
-Key difference: Dismissal puts you back where you started -- all debts revive, all liens revive, and creditors can resume collection. A hardship discharge eliminates qualifying debts permanently. If you have significant dischargeable unsecured debt, the hardship discharge is almost always the better option when available.
+Key difference: Dismissal puts you back where you started - all debts revive, all liens revive, and creditors can resume collection. A hardship discharge eliminates qualifying debts permanently. If you have significant dischargeable unsecured debt, the hardship discharge is almost always the better option when available.
 
 Third Option: Conversion to Chapter 7
 
@@ -1911,19 +2045,19 @@ Subscribe
 
 Related Resources
 
-dismissedbankruptcy.org -- What happens after dismissal and next steps
+dismissedbankruptcy.org - What happens after dismissal and next steps
 
-Requirements -- The three elements of hardship discharge
+Requirements - The three elements of hardship discharge
 
-chapter13plan.org -- Chapter 13 plan modification options
+chapter13plan.org - Chapter 13 plan modification options
 
-dischargebar.org -- Discharge bar timing after hardship discharge
+dischargebar.org - Discharge bar timing after hardship discharge
 
 Related Guides
 
 Debt to Income Ratio Guide
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1934,10 +2068,10 @@ Further Reading & Resources
 Authority sources for deeper research on 109(g) filing bars and hardship discharge:
 
 11 U.S.C. Section 109(g)
-Cornell LII -- filing bars
+Cornell LII - filing bars
 
 11 U.S.C. Section 1328(b)
-Cornell LII -- hardship discharge
+Cornell LII - hardship discharge
 
 Bankruptcy Basics
 USCourts.gov
@@ -2027,127 +2161,72 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Hardship Discharge in Bankruptcy -- 11 U.S.C. Section 1328(b) Guide [2026]
-Source: https://bankruptcyhardship.org/hardship-discharge.html
+## Privacy Policy - bankruptcyhardship.org
+Source: https://bankruptcyhardship.org/privacy.html
 
-← bankruptcyhardship.org
+bankruptcyhardship.org
 
-Hardship Discharge in Bankruptcy
+Home
+Privacy
 
-When life makes it impossible to finish your Chapter 13 plan, a hardship discharge under 11 U.S.C. Section 1328(b) may provide relief
+Privacy Policy
 
-Key point: A hardship discharge is available only in Chapter 13. You must show three things: (1) circumstances beyond your control, (2) creditors received at least what they would in Chapter 7, and (3) plan modification is not practicable.
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
 
-What Is a Hardship Discharge?
+Data We Collect
 
-A hardship discharge allows a Chapter 13 debtor to receive a discharge even though the debtor has not completed all payments under the confirmed plan. It is codified at 11 U.S.C. Section 1328(b).
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
 
-This is different from the standard Chapter 13 discharge under Section 1328(a), which you receive after completing all plan payments. The hardship discharge exists because Congress recognized that some debtors face genuinely unforeseeable circumstances -- job loss, serious illness, disability, or death of a spouse -- that make plan completion impossible.
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
 
-Three Requirements for a Hardship Discharge
+What We Don't Do
 
-Courts apply a strict three-part test. All three must be satisfied:
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
 
-1. Circumstances Not the Debtor's Fault
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
 
-The failure to complete plan payments must be due to circumstances for which the debtor should not justly be held accountable. Common qualifying events:
+Cookies
 
-Serious illness, injury, or disability
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
 
-Loss of employment through no fault of your own (layoff, plant closing)
+Third-Party Services
 
-Death or disability of a spouse who contributed to plan payments
+Google Analytics (GA4) - aggregate traffic measurement
 
-Divorce that destroys the household income needed for plan payments
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
 
-Natural disaster (flood, tornado, fire) causing uninsured losses
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
 
-Voluntary job changes, quitting, or failing to seek new employment typically do not qualify.
+GitHub Pages - hosting
 
-2. Best-Interest-of-Creditors Test
+Contact Forms & Email
 
-Unsecured creditors must have received at least as much as they would have received in a Chapter 7 liquidation. This is the same test applied at confirmation under Section 1325(a)(4). The court looks at what nonexempt assets would have been available to a Chapter 7 trustee.
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
 
-3. Modification Is Not Practicable
+Children's Privacy
 
-You must show that modifying the plan under Section 1329 is not feasible. If you could reduce payments and still complete a modified plan, the court will deny the hardship discharge and direct you to modify instead. See our plan modification guide.
+This site is not directed at children under 13. We do not knowingly collect information from children.
 
-Hardship Discharge vs. Regular Chapter 13 Discharge
+Data Retention
 
-FeatureRegular Discharge (1328(a))Hardship Discharge (1328(b))
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
 
-Plan paymentsAll payments completedPayments not completed
+Your Rights
 
-ScopeBroader -- discharges most debts including some not dischargeable in Chapter 7Narrower -- same scope as Chapter 7 discharge
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
 
-Student loansNot dischargedNot discharged
+Network Policy
 
-Fraud debtsMay be dischargedNot discharged (523(a)(2))
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
-Willful injuryMay be dischargedNot discharged (523(a)(6))
+Changes
 
-Court approvalAutomatic after plan completionRequires motion and hearing
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
 
-How to Request a Hardship Discharge
+Effective: March 30, 2026  |  Updated: April 11, 2026
 
-File a motion with the bankruptcy court requesting a hardship discharge under Section 1328(b)
+Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Provide evidence of the circumstances preventing plan completion (medical records, termination letter, disability determination)
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
 
-Show the math -- demonstrate that unsecured creditors received at least what they would have in Chapter 7
-
-Explain why modification fails -- attach a proposed modified plan showing it is not feasible
-
-Attend the hearing -- the court will schedule a hearing on your motion
-
-For detailed filing procedures, see our step-by-step request guide.
-
-Debts NOT Discharged Under a Hardship Discharge
-
-Because a hardship discharge has the same scope as a Chapter 7 discharge, the following debts survive:
-
-Domestic support obligations (alimony, child support)
-
-Most tax debts
-
-Student loans (unless undue hardship is proven in an adversary proceeding)
-
-Debts from fraud, embezzlement, or larceny
-
-Debts from willful and malicious injury
-
-Government fines and penalties
-
-DUI/DWI judgments
-
-Common Reasons Courts Deny Hardship Discharges
-
-The debtor caused the inability to pay (quit a job, overspent)
-
-Plan modification is still possible
-
-Creditors received less than they would have in Chapter 7
-
-Insufficient evidence of the hardship
-
-The debtor did not complete the required financial management course
-
-Alternatives to a Hardship Discharge
-
-Before requesting a hardship discharge, consider these options:
-
-Plan modification -- reduce payments under Section 1329 (guide)
-
-Conversion to Chapter 7 -- if you now qualify for Chapter 7 under the means test
-
-Voluntary dismissal -- dismiss the case and start over later
-
-See our full alternatives comparison.
-
-Related Resources
-
-Bankruptcy Hardship Guide | Requirements | Qualifying Circumstances | Case Law | Chapter 13 Plan Guide
-
-Part of the Open Bankruptcy Project -- free, open-source bankruptcy information.
-
-Not legal advice. Consult a licensed attorney for your specific situation.
+No ads. No affiliate links. No data sold. Supported by donations.
