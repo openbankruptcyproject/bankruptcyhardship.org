@@ -17,46 +17,40 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>What Qualifies for a Hardship Discharge?</title>
-<meta content="Learn about what qualifies for a hardship discharge? | bankruptcyhardship.org in our free 2026 guide. Clear explanations, real data, and practi..." name="description"/>
-<meta content="hardship discharge, bankruptcy, bankruptcyhardship" name="keywords"/>
-<link href="https://bankruptcyhardship.org/qualifying-circumstances.html" rel="canonical"/>
-<!-- Open Graph -->
-<meta content="What Qualifies for a Hardship Discharge?" property="og:title"/>
-<meta content="Learn about what qualifies for a hardship discharge? | bankruptcyhardship.org in our free 2026 guide. Clear explanations, real data, and practi..." property="og:description"/>
-<meta content="website" property="og:type"/>
-<meta content="https://bankruptcyhardship.org/qualifying-circumstances.html" property="og:url"/>
+<title>Hardship Discharge for Medical Disability in Chapter 13</title>
+<meta content="Learn about hardship discharge for medical disability in chapter 13 | bankruptcyhardship.org in our free 2026 guide." name="description"/>
+<meta content="hardship discharge medical disability, chapter 13 disability, medical hardship bankruptcy, unable to work bankruptcy" name="keywords"/>
+<link href="https://bankruptcyhardship.org/medical-disability.html" rel="canonical"/>
+<meta content="Hardship Discharge for Medical Disability in Chapter 13" property="og:title"/>
+<meta content="Learn about hardship discharge for medical disability in chapter 13 | bankruptcyhardship.org in our free 2026 guide." property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="https://bankruptcyhardship.org/medical-disability.html" property="og:url"/>
 <meta content="bankruptcyhardship.org" property="og:site_name"/>
-<!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="What Qualifies for a Hardship Discharge?" name="twitter:title"/>
-<meta content="Learn about what qualifies for a hardship discharge? | bankruptcyhardship.org in our free 2026 guide. Clear explanations, real data, and practi..." name="twitter:description"/>
+<meta content="Hardship Discharge for Medical Disability in Chapter 13" name="twitter:title"/>
+<meta content="Learn about hardship discharge for medical disability in chapter 13 | bankruptcyhardship.org in our free 2026 guide." name="twitter:description"/>
 <meta content="https://bankruptcyhardship.org/og-image.svg" property="og:image"/>
 <meta content="https://bankruptcyhardship.org/og-image.svg" name="twitter:image"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
-<link href="/manifest.json" rel="manifest"/>
 <meta content="#0d1117" name="theme-color"/>
-<script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org", "description": "Free, open-source bankruptcy information. Real information, no strings.", "sameAs": ["https://1328f.com", "https://1328f.org", "https://automaticstay.org", "https://meanstest.org", "https://341meeting.org", "https://relieffromstay.org", "https://dischargeinjunction.org", "https://dischargeinjunction.com", "https://523a.org", "https://109g.org"]}
-</script>
-<!-- BreadcrumbList Schema -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Network",
-      "item": "https://1328f.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Hardship Discharge",
-      "item": "https://bankruptcyhardship.org/"
-    }
+  "@type": "Organization",
+  "name": "Open Bankruptcy Project",
+  "url": "https://1328f.org",
+  "description": "Free, open-source bankruptcy information. Real information, no strings."
+}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage",
+  "mainEntity": [
+    {"@type": "Question", "name": "Can I get a hardship discharge if I become disabled during my Chapter 13 plan?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Yes. Medical disability is the most common and most successful basis for a hardship discharge under Section 1328(b), provided you also meet the best interest test and show modification is not practicable."}},
+    {"@type": "Question", "name": "What medical evidence do I need for a hardship discharge?",
+     "acceptedAnswer": {"@type": "Answer", "text": "A doctor's letter confirming the diagnosis and work restrictions, income documentation showing reduced earnings, and an updated budget showing plan payments are not feasible."}},
+    {"@type": "Question", "name": "Does the medical condition have to be permanent?",
+     "acceptedAnswer": {"@type": "Answer", "text": "No. Courts have granted hardship discharges for temporary but long-duration conditions where the plan cannot be extended long enough to accommodate the treatment period."}}
   ]
 }
 </script>
@@ -66,8 +60,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Hardship Discharge",
-      "description": "Section 1328(b) - early discharge when you cannot complete your Chapter 13 plan",
+      "headline": "Medical and Disability Hardship Discharge",
+      "description": "Medical disability is the most common basis for a hardship discharge. What evidence courts require and how to document your condition.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -79,12 +73,35 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://bankruptcyhardship.org/qualifying-circumstances.html"
+      "mainEntityOfPage": "https://bankruptcyhardship.org/medical-disability.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://bankruptcyhardship.org"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hardship Discharge",
+          "item": "https://bankruptcyhardship.org"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Medical and Disability Hardship Discharge",
+          "item": "https://bankruptcyhardship.org/medical-disability.html"
+        }
+      ]
     },
     {
       "@type": "WebPage",
-      "name": "Hardship Discharge",
-      "url": "https://bankruptcyhardship.org/qualifying-circumstances.html",
+      "name": "Medical and Disability Hardship Discharge",
+      "url": "https://bankruptcyhardship.org/medical-disability.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -140,12 +157,23 @@
   main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
   .content-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem; }
   .content-section h2 { color: #f0f6fc; font-size: 1.3rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+  .content-section h3 { color: #f0f6fc; font-size: 1.1rem; margin: 1.25rem 0 0.75rem; }
   .content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
   .content-section p:last-child { margin-bottom: 0; }
+  .content-section ul, .content-section ol { margin: 0.75rem 0 0.75rem 1.5rem; color: var(--text); font-size: 0.95rem; }
+  .content-section li { margin-bottom: 0.4rem; }
+  .content-section table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+  .content-section th, .content-section td { padding: 0.6rem 0.75rem; text-align: left; border-bottom: 1px solid var(--border); }
+  .content-section th { color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
   .green-box { background: #21262d; border-left: 3px solid var(--green); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
   .green-box p { margin-bottom: 0.5rem; }
   .green-box p:last-child { margin-bottom: 0; }
-  .coming-soon { display: inline-block; background: var(--yellow); color: #0d1117; font-size: 0.75rem; font-weight: 700; padding: 0.2rem 0.6rem; border-radius: 4px; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem; }
+  .yellow-box { background: #21262d; border-left: 3px solid var(--yellow); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .yellow-box p { margin-bottom: 0.5rem; }
+  .yellow-box p:last-child { margin-bottom: 0; }
+  .warning-box { background: #21262d; border-left: 3px solid var(--red); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .warning-box p { margin-bottom: 0.5rem; }
+  .warning-box p:last-child { margin-bottom: 0; }
   .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 8px; padding: 2rem; margin: 2rem 0; text-align: center; }
   .cta-box h3 { color: #f0f6fc; font-size: 1.2rem; margin-bottom: 0.75rem; }
   .cta-box p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem; }
@@ -170,34 +198,12 @@
     .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
     .nav-links.open { display: flex; }
     .cta-box .cta-links { flex-direction: column; gap: 0.75rem; }
+    .content-section table { font-size: 0.8rem; }
+    .content-section th, .content-section td { padding: 0.5rem; }
   }
 </style>
-<script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What debts are discharged in bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Most unsecured debts are discharged, including credit cards, medical bills, personal loans, and utility arrears. Debts that typically cannot be discharged include student loans (except in hardship cases), most taxes, child support, alimony, and debts from fraud or willful injury."}}, {"@type": "Question", "name": "How long does it take to get a bankruptcy discharge?", "acceptedAnswer": {"@type": "Answer", "text": "In Chapter 7, the discharge typically arrives about 60 days after the 341 meeting, or roughly 3-4 months after filing. In Chapter 13, the discharge comes after completing all plan payments, which takes 3-5 years."}}, {"@type": "Question", "name": "Can a creditor object to my discharge?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Creditors can file an adversary proceeding arguing that a specific debt should not be discharged due to fraud, misrepresentation, or other exceptions under 11 U.S.C. Section 523. They can also object to your entire discharge under Section 727 for misconduct like hiding assets."}}, {"@type": "Question", "name": "What is the difference between a discharge and a dismissal?", "acceptedAnswer": {"@type": "Answer", "text": "A discharge eliminates your personal liability for qualifying debts permanently. A dismissal ends your bankruptcy case without eliminating any debts, as if you never filed. A dismissal may also impose a waiting period before you can file again."}}, {"@type": "Question", "name": "Can my bankruptcy discharge be revoked?", "acceptedAnswer": {"@type": "Answer", "text": "In rare cases, yes. A discharge can be revoked within one year if the debtor committed fraud, failed to disclose assets, or refused to obey a court order. Revocation requires a court proceeding initiated by the trustee, a creditor, or the U.S. Trustee."}}]}
-</script>
-<link href="https://bankruptcyhardship.org/qualifying-circumstances.html" hreflang="en" rel="alternate"/>
-<link href="https://bankruptcyhardship.org/qualifying-circumstances-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://bankruptcyhardship.org/medical-disability.html" hreflang="en" rel="alternate"/>
+<link href="https://bankruptcyhardship.org/medical-disability-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -209,43 +215,60 @@
 <a href="/requirements.html">Requirements</a>
 <a href="/best-interest-test.html">Best Interest</a>
 <a href="/modification-first.html">Modification First</a>
-<a href="/medical-disability.html">Medical</a>
+<a class="active" href="/medical-disability.html">Medical</a>
 <a href="/case-law.html">Case Law</a>
 <a href="/vs-dismissal.html">vs Dismissal</a>
 </div>
 </nav>
 <header>
-<h1><span class="accent">Hardship Discharge</span></h1>
-<p class="subtitle">Section 1328(b) - early discharge when you cannot complete your Chapter 13 plan</p>
+<h1>Medical and Disability <span class="accent">Hardship</span> Discharge</h1>
+<p class="subtitle">The most common qualifying circumstance for hardship discharge</p>
 </header>
 <div aria-label="Breadcrumb" class="breadcrumb">
-<a href="https://1328f.com/">Network</a> › Hardship Discharge
+<a href="https://1328f.com/">Network</a> › <a href="/">Hardship Discharge</a> › Medical/Disability
 </div>
 <main id="main-content">
 <div class="content-section">
-<h2>Circumstances Beyond Your Control</h2>
-<p>Job loss (not voluntary resignation), serious illness or disability, death of a spouse, natural disaster, incarceration. The failure to complete must be due to circumstances for which you should not justly be held accountable.</p>
+<h2>Medical Disability as a Qualifying Circumstance</h2>
+<p>Medical disability is the most common and most successful basis for a hardship <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> under <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a>(b). When a debtor becomes seriously ill or disabled during a <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> and can no longer work or earn sufficient income to make plan payments, courts routinely find that the debtor "should not justly be held accountable" for the failure to complete the plan.</p>
 </div>
 <div class="content-section">
-<h2>What Usually Does NOT Qualify</h2>
-<p>Temporary setbacks generally do not qualify. Courts expect you to try plan modification first.</p>
-<p>Voluntary lifestyle changes, poor financial decisions, and failure to look for work are unlikely to meet the standard.</p>
-</div>
-<div class="cta-box">
-<p>Explore plan modification</p>
-<a class="btn" href="https://chapter13plan.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Chapter 13 Plan Guide</a>
-</div>
-<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
-<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
-<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
-<ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
-<li><a href="https://canifileagain.org" style="color:#58a6ff;text-decoration:none">Can I File Bankruptcy Again?</a></li>
-<li><a href="https://debttoincomeratio.org" style="color:#58a6ff;text-decoration:none">Debt to Income Ratio Guide</a></li>
-<li><a href="https://bankruptcydismissed.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Dismissed - What Now?</a></li>
-<li><a href="https://filebankruptcyagain.org" style="color:#58a6ff;text-decoration:none">File Bankruptcy Again Guide</a></li>
+<h2>What Courts Want to See</h2>
+<p>To support a hardship <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> based on medical disability, you should provide:</p>
+<ul>
+<li><strong>Medical documentation</strong> - Doctor's letter or report confirming the diagnosis, onset date, and expected duration or permanence</li>
+<li><strong>Work restriction evidence</strong> - Documentation from treating physician that the debtor cannot work or can only work in a limited capacity</li>
+<li><strong>Income comparison</strong> - Show the difference between pre-disability income and current income (disability benefits, reduced wages, etc.)</li>
+<li><strong>Budget showing infeasibility</strong> - Updated Schedule J showing that even with reduced expenses, plan payments are not possible</li>
+<li><strong>Social Security disability determination</strong> - If applicable, an SSDI or SSI approval is strong evidence of inability to work</li>
 </ul>
 </div>
-</main>
+<div class="content-section">
+<h2>Types of Medical Conditions That Qualify</h2>
+<p>Courts have granted hardship discharges for a wide range of conditions:</p>
+<ul>
+<li>Cancer requiring extended treatment or causing permanent disability</li>
+<li>Traumatic brain injury or spinal cord injury</li>
+<li>Stroke with lasting impairment</li>
+<li>Degenerative conditions (MS, ALS, severe arthritis)</li>
+<li>Mental health conditions severe enough to prevent employment</li>
+<li>Chronic pain conditions rendering the debtor unable to work</li>
+</ul>
+<div class="green-box">
+<p><strong>The condition does not have to be permanent.</strong> Some courts have granted hardship discharges for temporary but long-duration medical conditions (such as cancer treatment lasting 12+ months) where the debtor cannot make payments during treatment and the plan cannot be extended long enough to accommodate the gap.</p>
+</div>
+</div>
+<div class="content-section">
+<h2>Medical Expenses as a Factor</h2>
+<p>Even if the debtor can still work, catastrophic medical expenses can justify a hardship discharge by consuming income that would otherwise go to plan payments. Large deductibles, out-of-network costs, and ongoing prescription costs can all be relevant.</p>
+</div>
+<div class="cta-box">
+<h3>Related Topics</h3>
+<div class="cta-links">
+<a class="primary-btn" href="/requirements.html">All 3 Requirements</a>
+<a class="secondary-btn" href="/vs-dismissal.html">vs Dismissal</a>
+</div>
+</div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
 <p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
 <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:1rem">No spam. No marketing. Just data.</p>
@@ -257,10 +280,25 @@
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
 <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://section1328.org" style="color:#58a6ff">Section 1328 Discharge</a> - Chapter 13 discharge rules and the superdischarge</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://chapter13plan.org" style="color:#58a6ff">Chapter 13 Plans</a> - How Chapter 13 repayment plans work and get confirmed</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://dismissedbankruptcy.org" style="color:#58a6ff">Dismissed Bankruptcy</a> - What happens when your case is dismissed and next steps</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="/requirements.html" style="color:#58a6ff">Requirements</a> - The full three-element test for hardship discharge</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="/modification-first.html" style="color:#58a6ff">Modification First</a> - Why courts require modification attempts first</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://section1328.org" style="color:#58a6ff">section1328.org</a> - <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> discharge rules</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://chapter13plan.org" style="color:#58a6ff">chapter13plan.org</a> - <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> modification options</p>
 </div>
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+<ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+<li><a href="https://canifileagain.org" style="color:#58a6ff;text-decoration:none">Can I File Bankruptcy Again?</a></li>
+<li><a href="https://debttoincomeratio.org" style="color:#58a6ff;text-decoration:none">Debt to Income Ratio Guide</a></li>
+<li><a href="https://bankruptcydismissed.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Dismissed - What Now?</a></li>
+<li><a href="https://filebankruptcyagain.org" style="color:#58a6ff;text-decoration:none">File Bankruptcy Again Guide</a></li>
+</ul>
+</div>
+<div style="margin:1.5rem 0"><h2 style="color:#f0f6fc;font-size:1.1rem;margin-bottom:1rem">Related Resources</h2>
+<a href="https://openbankruptcyproject.org/rule-9037/" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Rule 9037 Compliance Guide</a>
+</div>
+</main>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
 <p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
 <p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on 109(g) filing bars and hardship discharge:</p>
@@ -309,8 +347,8 @@
 <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://bankruptcystudentloans.org/?utm_source=bankruptcyhardship.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Student Loans in Bankruptcy</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcystudentloans.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://727a8.com/?utm_source=bankruptcyhardship.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Section 727(a)(8) Discharge Waiting Period</a> <span style="color:#7d8590;font-size:0.8rem">-- 727a8.com</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=bankruptcyhardship.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=bankruptcyhardship.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
 </ul>
 </div>
 <!-- BTN:FOOTER:START -->
@@ -320,42 +358,19 @@
 <p>Real information, no strings.</p>
 <div class="links">
 <a href="https://1328f.com?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">1328f.com</a>
-<a href="https://1328f.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">1328f.org</a>
-<a href="https://automaticstay.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">automaticstay.org</a>
-<a href="https://meanstest.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">meanstest.org</a>
-<a href="https://341meeting.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">341meeting.org</a>
-<a href="https://relieffromstay.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">relieffromstay.org</a>
-<a href="https://dischargeinjunction.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">dischargeinjunction.org</a>
-<a href="https://dischargeinjunction.com?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">dischargeinjunction.com</a>
-<a href="https://523a.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">523a.org</a>
-<a href="https://109g.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">109g.org</a>
-<a href="https://727a8.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">727a8.org</a>
-<a href="https://727a8.com?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">727a8.com</a>
-<a href="https://prosedebtors.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">prosedebtors.org</a>
-<a href="https://whatischapter7.com?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">whatischapter7.com</a>
-<a href="https://whatischapter7.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">whatischapter7.org</a>
+<a href="https://section1328.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">section1328.org</a>
 <a href="https://chapter13plan.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">chapter13plan.org</a>
-<a href="https://lienstripping.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">lienstripping.org</a>
-<a href="https://nondischargeable.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">nondischargeable.org</a>
-<a href="https://bankruptcyfreshstart.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">bankruptcyfreshstart.org</a>
-<a href="https://reaffirmationagreement.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">reaffirmationagreement.org</a>
-<a href="https://dischargebar.org">dischargebar.org</a>
-<a href="https://section1328.org">section1328.org</a>
-<a href="https://bankruptcytaxes.org">bankruptcytaxes.org</a>
-<a href="https://dismissedbankruptcy.org">dismissedbankruptcy.org</a>
-<a href="https://serialfiler.org">serialfiler.org</a>
-<a href="https://codebtorstay.org">codebtorstay.org</a>
-<a href="https://bankruptcyhardship.org">bankruptcyhardship.org</a>
-<a href="https://voluntarypetition.org">voluntarypetition.org</a>
+<a href="https://dismissedbankruptcy.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">dismissedbankruptcy.org</a>
+<a href="https://dischargebar.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">dischargebar.org</a>
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
 </div>
-<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
-<p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
+<p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=bankruptcyhardship.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
-<p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">91</span> of 37.9 million</p>
+<p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">0</span> of 37.9 million</p>
 <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
 <div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div id="recap-bar" style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
 <p style="margin-bottom:0.25rem"><span id="recap-donated" style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
