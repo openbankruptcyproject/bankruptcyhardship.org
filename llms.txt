@@ -1,24 +1,25 @@
-# Hardship Discharge in Bankruptcy - Requirements & How to Qualify [2026]
-> Last updated: 2026-05-01
+# Hardship Discharge in Bankruptcy [2026]: 11 USC 1328(b) Three-Element Standard and Filing Process
+> Last updated: 2026-09-25
 
-> Learn about hardship discharge | bankruptcyhardship.org in our free 2026 guide. Clear explanations, real data, and practical steps. T complete your chapter 13 plan? a hardship discharge may let you exit early. learn the requirements and how to qualify. updated 2026 guide.
+> Hardship discharge under 11 U.S.C. 1328(b) lets Chapter 13 debtors exit early when circumstances change. Free 2026 guide.
 
 ## About
 bankruptcyhardship.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Alternatives to Hardship Discharge: https://bankruptcyhardship.org/alternatives.html
-- Best Interest of Creditors Test for Hardship Discharge: https://bankruptcyhardship.org/best-interest-test.html
-- Hardship Discharge Case Law and Circuit Splits: https://bankruptcyhardship.org/case-law.html
+- Alternatives to Hardship Discharge [2026]: Plan Modification (11 USC 1329) and Voluntary Dismissal: https://bankruptcyhardship.org/alternatives.html
+- Best Interest of Creditors Test [2026]: 11 USC 1325(a)(4) and Hardship Discharge Math: https://bankruptcyhardship.org/best-interest-test.html
+- Hardship Discharge Case Law [2026]: Circuit Splits on 11 USC 1328(b) Standards: https://bankruptcyhardship.org/case-law.html
 - Hardship Discharge in Bankruptcy - 11 U.S.C. Section 1328(b) Guide: https://bankruptcyhardship.org/hardship-discharge.html
-- How to Request a Hardship Discharge: https://bankruptcyhardship.org/how-to-request.html
-- Hardship Discharge in Bankruptcy - Requirements & How to Qualify: https://bankruptcyhardship.org/
-- Hardship Discharge for Medical Disability in Chapter 13: https://bankruptcyhardship.org/medical-disability.html
-- Plan Modification vs Hardship Discharge - Which Comes First?: https://bankruptcyhardship.org/modification-first.html
-- What Qualifies for a Hardship Discharge?: https://bankruptcyhardship.org/qualifying-circumstances.html
-- Hardship Discharge Requirements - The 3 Elements of Section 1328(b): https://bankruptcyhardship.org/requirements.html
-- Hardship Discharge vs Voluntary Dismissal - Chapter 13: https://bankruptcyhardship.org/vs-dismissal.html
+- How to Request a Hardship Discharge [2026]: 11 USC 1328(b) Motion, Notice, and Hearing Procedure: https://bankruptcyhardship.org/how-to-request.html
+- Hardship Discharge in Bankruptcy [2026]: 11 USC 1328(b) Three-Element Standard and Filing Process: https://bankruptcyhardship.org/
+- Hardship Discharge for Medical Disability [2026]: 11 USC 1328(b) and Chapter 13 Plan Failure: https://bankruptcyhardship.org/medical-disability.html
+- Plan Modification vs Hardship Discharge [2026]: 11 USC 1329 Modification Required Before 1328(b): https://bankruptcyhardship.org/modification-first.html
+- Qualifying Circumstances for Hardship Discharge [2026]: Job Loss, Medical, and Family Emergencies: https://bankruptcyhardship.org/qualifying-circumstances.html
+- Hardship Discharge Requirements [2026]: The 3 Elements of 11 USC 1328(b): https://bankruptcyhardship.org/requirements.html
+- Hardship Discharge vs Voluntary Dismissal [2026]: 11 USC 1307(b) vs 1328(b) Trade-offs: https://bankruptcyhardship.org/vs-dismissal.html
 - Privacy Policy: https://bankruptcyhardship.org/privacy.html
+- About bankruptcyhardship.org: https://bankruptcyhardship.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

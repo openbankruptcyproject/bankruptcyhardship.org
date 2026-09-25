@@ -1,6 +1,6 @@
 # bankruptcyhardship.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on bankruptcyhardship.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -8,7 +8,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Alternatives to Hardship Discharge
+## Alternatives to Hardship Discharge [2026]: Plan Modification (11 USC 1329) and Voluntary Dismissal
 Source: https://bankruptcyhardship.org/alternatives.html
 
 Skip to main content
@@ -29,6 +29,8 @@ Hardship Discharge
 Section 1328(b) - early discharge when you cannot complete your Chapter 13 plan
 
 Network › Hardship Discharge
+
+Most unsecured debts are discharged, including credit cards, medical bills, personal loans, and utility arrears. Debts that typically cannot be discharged include student loans (except in hardship cases), most taxes, child support, alimony, and debts from fraud or willful injury.
 
 Plan Modification - Section 1329
 
@@ -101,7 +103,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 The Brunner Test Explained
 
@@ -129,47 +131,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-dischargeinjunction.com
-523a.org
-109g.org
-727a8.org
-727a8.com
-prosedebtors.org
-whatischapter7.com
-whatischapter7.org
-chapter13plan.org
-lienstripping.org
-nondischargeable.org
-bankruptcyfreshstart.org
-reaffirmationagreement.org
-dischargebar.org
-section1328.org
-bankruptcytaxes.org
-dismissedbankruptcy.org
-serialfiler.org
-codebtorstay.org
-bankruptcyhardship.org
-voluntarypetition.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -183,15 +171,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Best Interest of Creditors Test for Hardship Discharge
+## Best Interest of Creditors Test [2026]: 11 USC 1325(a)(4) and Hardship Discharge Math
 Source: https://bankruptcyhardship.org/best-interest-test.html
 
 Skip to main content
@@ -212,6 +200,8 @@ The Best Interest of Creditors Test
 How courts compare plan payments to Chapter 7 liquidation value
 
 Network › Hardship Discharge › Best Interest Test
+
+It requires that unsecured creditors receive at least as much through the Chapter 13 plan as they would have received in a Chapter 7 liquidation.
 
 What Is the Best Interest Test?
 
@@ -301,7 +291,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 The Brunner Test Explained
 
@@ -329,24 +319,33 @@ Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-section1328.org
-chapter13plan.org
-dismissedbankruptcy.org
-dischargebar.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -360,15 +359,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Hardship Discharge Case Law and Circuit Splits
+## Hardship Discharge Case Law [2026]: Circuit Splits on 11 USC 1328(b) Standards
 Source: https://bankruptcyhardship.org/case-law.html
 
 Skip to main content
@@ -389,6 +388,8 @@ Hardship Discharge Case Law
 Key decisions on what qualifies - and what does not - under Section 1328(b)
 
 Network › Hardship Discharge › Case Law
+
+Courts look for circumstances beyond the debtor's control: involuntary job loss, serious medical disability, death of a spouse, natural disaster. The debtor must not be justly accountable for the failure to complete payments.
 
 Interpreting "Not Justly Accountable"
 
@@ -494,7 +495,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 The Brunner Test Explained
 
@@ -522,24 +523,33 @@ Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-section1328.org
-chapter13plan.org
-dismissedbankruptcy.org
-dischargebar.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -553,9 +563,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -571,6 +581,8 @@ Hardship Discharge in Bankruptcy
 When life makes it impossible to finish your Chapter 13 plan, a hardship discharge under 11 U.S.C. Section 1328(b) may provide relief
 
 Key point: A hardship discharge is available only in Chapter 13. You must show three things: (1) circumstances beyond your control, (2) creditors received at least what they would in Chapter 7, and (3) plan modification is not practicable.
+
+A hardship discharge under 11 U.S.C. Section 1328(b) allows a Chapter 13 debtor to receive a discharge before completing all plan payments when circumstances beyond the debtor's control prevent plan completion.
 
 What Is a Hardship Discharge?
 
@@ -682,13 +694,37 @@ Related Resources
 
 Bankruptcy Hardship Guide | Requirements | Qualifying Circumstances | Case Law | Chapter 13 Plan Guide
 
-Part of the Open Bankruptcy Project - free, open-source bankruptcy information.
+Part of the Bankruptcy Transparency Network
 
-Not legal advice. Consult a licensed attorney for your specific situation.
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## How to Request a Hardship Discharge
+## How to Request a Hardship Discharge [2026]: 11 USC 1328(b) Motion, Notice, and Hearing Procedure
 Source: https://bankruptcyhardship.org/how-to-request.html
 
 Skip to main content
@@ -709,6 +745,8 @@ Hardship Discharge
 Section 1328(b) - early discharge when you cannot complete your Chapter 13 plan
 
 Network › Hardship Discharge
+
+Most unsecured debts are discharged, including credit cards, medical bills, personal loans, and utility arrears. Debts that typically cannot be discharged include student loans (except in hardship cases), most taxes, child support, alimony, and debts from fraud or willful injury.
 
 Filing the Motion
 
@@ -781,7 +819,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 The Brunner Test Explained
 
@@ -809,47 +847,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-dischargeinjunction.com
-523a.org
-109g.org
-727a8.org
-727a8.com
-prosedebtors.org
-whatischapter7.com
-whatischapter7.org
-chapter13plan.org
-lienstripping.org
-nondischargeable.org
-bankruptcyfreshstart.org
-reaffirmationagreement.org
-dischargebar.org
-section1328.org
-bankruptcytaxes.org
-dismissedbankruptcy.org
-serialfiler.org
-codebtorstay.org
-bankruptcyhardship.org
-voluntarypetition.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -863,18 +887,18 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Hardship Discharge in Bankruptcy - Requirements & How to Qualify [2026]
+## Hardship Discharge in Bankruptcy [2026]: 11 USC 1328(b) Three-Element Standard and Filing Process
 Source: https://bankruptcyhardship.org/
 
-🌐 Esta pagina esta disponible en Espanol
+🌐 Esta página está disponible en Español
 
 Skip to main content
 
@@ -889,7 +913,7 @@ Medical
 Case Law
 vs Dismissal
 
-Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
 
 Hardship Discharge in Bankruptcy
 
@@ -900,6 +924,8 @@ Network › Hardship Discharge
 Quick Answer
 
 A hardship discharge under Section 1328 discharge requirements(b) lets you get out of a Chapter 13 plan early if circumstances beyond your control make it impossible to continue. You must meet three requirements: the failure isn't your fault, creditors got at least what they'd get in Chapter 7, and plan modification isn't possible.
+
+A hardship discharge under 11 U.S.C. Section 1328(b) allows a Chapter 13 debtor to receive a discharge without completing all plan payments. The court grants it when the debtor failure to complete payments is due to circumstances beyond the debtor control, like serious illness or job loss.
 
 About This Site
 
@@ -1007,7 +1033,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 The Brunner Test Explained
 
@@ -1053,7 +1079,7 @@ How Discharge Works
 
 Which debts get wiped and which survive
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 State Bankruptcy Guides
 
@@ -1149,56 +1175,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-462+ Court Documents Freed from PACER
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+Privacy |
+Terms
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-dischargeinjunction.com
-523a.org
-109g.org
-727a8.org
-727a8.com
-prosedebtors.org
-whatischapter7.com
-whatischapter7.org
-chapter13plan.org
-lienstripping.org
-nondischargeable.org
-bankruptcyfreshstart.org
-reaffirmationagreement.org
-dischargebar.org
-section1328.org
-bankruptcytaxes.org
-dismissedbankruptcy.org
-serialfiler.org
-codebtorstay.org
-bankruptcyhardship.org
-voluntarypetition.org
-♥ Sponsor
-GitHub
-Rule 9037 PII Scanner
+♥ Donate
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
-
-Privacy | Terms | Open Bankruptcy Project
-
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1212,15 +1215,43 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Googlezvjzyjfznkwziasscft56Wwvzodyv174Hor3Hvo 08Y
+
 ---
 
-## Hardship Discharge for Medical Disability in Chapter 13
+## Hardship Discharge for Medical Disability [2026]: 11 USC 1328(b) and Chapter 13 Plan Failure
 Source: https://bankruptcyhardship.org/medical-disability.html
 
 Skip to main content
@@ -1241,6 +1272,8 @@ Medical and Disability Hardship Discharge
 The most common qualifying circumstance for hardship discharge
 
 Network › Hardship Discharge › Medical/Disability
+
+Yes. Medical disability is the most common and most successful basis for a hardship discharge under Section 1328(b), provided you also meet the best interest test and show modification is not practicable.
 
 Medical Disability as a Qualifying Circumstance
 
@@ -1315,7 +1348,7 @@ File Bankruptcy Again Guide
 
 Related Resources
 
-Rule 9037 PII Scanner (Open Source)
+Rule 9037 Compliance Guide
 
 Further Reading & Resources
 
@@ -1348,7 +1381,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 The Brunner Test Explained
 
@@ -1376,24 +1409,33 @@ Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-section1328.org
-chapter13plan.org
-dismissedbankruptcy.org
-dischargebar.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -1407,15 +1449,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Plan Modification vs Hardship Discharge - Which Comes First?
+## Plan Modification vs Hardship Discharge [2026]: 11 USC 1329 Modification Required Before 1328(b)
 Source: https://bankruptcyhardship.org/modification-first.html
 
 Skip to main content
@@ -1436,6 +1478,8 @@ Modification Before Hardship Discharge
 Why courts require you to try plan modification first
 
 Network › Hardship Discharge › Modification First
+
+Yes. Section 1328(b) requires that modification of the plan is not practicable. Courts expect you to attempt modification first.
 
 The Modification Requirement
 
@@ -1529,7 +1573,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 The Brunner Test Explained
 
@@ -1557,24 +1601,33 @@ Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-section1328.org
-chapter13plan.org
-dismissedbankruptcy.org
-dischargebar.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -1588,15 +1641,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## What Qualifies for a Hardship Discharge?
+## Qualifying Circumstances for Hardship Discharge [2026]: Job Loss, Medical, and Family Emergencies
 Source: https://bankruptcyhardship.org/qualifying-circumstances.html
 
 Skip to main content
@@ -1617,6 +1670,8 @@ Hardship Discharge
 Section 1328(b) - early discharge when you cannot complete your Chapter 13 plan
 
 Network › Hardship Discharge
+
+Most unsecured debts are discharged, including credit cards, medical bills, personal loans, and utility arrears. Debts that typically cannot be discharged include student loans (except in hardship cases), most taxes, child support, alimony, and debts from fraud or willful injury.
 
 Circumstances Beyond Your Control
 
@@ -1687,7 +1742,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 The Brunner Test Explained
 
@@ -1715,47 +1770,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-relieffromstay.org
-dischargeinjunction.org
-dischargeinjunction.com
-523a.org
-109g.org
-727a8.org
-727a8.com
-prosedebtors.org
-whatischapter7.com
-whatischapter7.org
-chapter13plan.org
-lienstripping.org
-nondischargeable.org
-bankruptcyfreshstart.org
-reaffirmationagreement.org
-dischargebar.org
-section1328.org
-bankruptcytaxes.org
-dismissedbankruptcy.org
-serialfiler.org
-codebtorstay.org
-bankruptcyhardship.org
-voluntarypetition.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1769,15 +1810,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Hardship Discharge Requirements - The 3 Elements of Section 1328(b)
+## Hardship Discharge Requirements [2026]: The 3 Elements of 11 USC 1328(b)
 Source: https://bankruptcyhardship.org/requirements.html
 
 Skip to main content
@@ -1798,6 +1839,8 @@ Hardship Discharge Requirements
 The three elements you must prove under Section 1328(b)
 
 Network › Hardship Discharge › Requirements
+
+Three elements under Section 1328(b): (1) failure to complete payments due to circumstances beyond your control, (2) unsecured creditors received at least what they would get in Chapter 7, and (3) plan modification is not practicable.
 
 The Three Elements of 1328(b)
 
@@ -1897,7 +1940,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 The Brunner Test Explained
 
@@ -1925,24 +1968,33 @@ Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-section1328.org
-chapter13plan.org
-dismissedbankruptcy.org
-dischargebar.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -1956,15 +2008,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Hardship Discharge vs Voluntary Dismissal - Chapter 13
+## Hardship Discharge vs Voluntary Dismissal [2026]: 11 USC 1307(b) vs 1328(b) Trade-offs
 Source: https://bankruptcyhardship.org/vs-dismissal.html
 
 Skip to main content
@@ -1985,6 +2037,8 @@ Hardship Discharge vs Voluntary Dismissal
 When your plan fails - which option is better?
 
 Network › Hardship Discharge › vs Dismissal
+
+If you qualify for a hardship discharge, it is usually better because it eliminates debts. Dismissal revives all debts. Choose dismissal if you do not qualify for hardship or need to refile quickly.
 
 Two Options When You Cannot Complete Your Plan
 
@@ -2096,7 +2150,7 @@ Bankruptcy Discharge Guide
 
 How the bankruptcy discharge process works
 
-bankruptcydischarge.org →
+dischargebar.org →
 
 The Brunner Test Explained
 
@@ -2124,24 +2178,33 @@ Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-section1328.org
-chapter13plan.org
-dismissedbankruptcy.org
-dischargebar.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -2155,9 +2218,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -2219,7 +2282,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -2229,6 +2292,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About bankruptcyhardship.org
+Source: https://bankruptcyhardship.org/about.html
+
+bankruptcyhardship.org
+
+Home
+About
+Privacy
+
+About bankruptcyhardship.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+bankruptcyhardship.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
